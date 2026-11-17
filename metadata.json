@@ -1,0 +1,6 @@
+{
+  "name": "NovaCalc",
+  "description": "Dark glassmorphism scientific calculator supporting real and complex arithmetic, exact fractions, number bases, and algebraic equation solving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
